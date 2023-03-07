@@ -1,0 +1,6 @@
+---
+db_server_user: mysql
+db_server_group: mysql
+db_name: mydb
+db_user: myuser
+db_password: mypassword

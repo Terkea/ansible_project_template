@@ -1,0 +1,5 @@
+---
+lb_algorithm: roundrobin
+lb_health_check_url: /health
+lb_health_check_interval: 30
+lb_health_check_timeout: 5

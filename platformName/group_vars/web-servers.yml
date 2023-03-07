@@ -1,0 +1,6 @@
+---
+http_port: 80
+https_port: 443
+web_server_user: www-data
+web_server_group: www-data
+document_root: /var/www/html
